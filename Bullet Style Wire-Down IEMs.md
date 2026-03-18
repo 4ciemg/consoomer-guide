@@ -17,3 +17,6 @@ order: 94
 - Tanchjim Zero Ultima DSP (mild V~) - $20
 - Final E500 (dark) - $25
 - Tanchjim Tanya (warm) - $25
+- Twistura Sigma (mid-centric) - $66
+- YU9 Fish9 (mid-centric) - $80
+
