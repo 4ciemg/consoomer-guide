@@ -8,8 +8,9 @@ order: 94
 
 ### *General Recommendations*
 
-- Tanchjim One DSP (mild V~) - $30
-- Etymotic ER2XR (mid-centric) - $100
+- Tanchjim Zero Ultima DSP (mild V~) - $22
+- Sony IER-EX15C (dark) - $30
+- Etymotic ER2XR (Mid-centric) - $100
 
 ### *Honorable Mentions*
 
@@ -17,6 +18,7 @@ order: 94
 - Tanchjim Zero Ultima DSP (mild V~) - $20
 - Final E500 (dark) - $25
 - Tanchjim Tanya (warm) - $25
+- Tanchjim One DSP (mild V~) - $30
 - Twistura Sigma (mid-centric) - $66
 - YU9 Fish9 (mid-centric) - $80
 
